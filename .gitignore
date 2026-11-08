@@ -1,0 +1,14 @@
+# 依赖
+node_modules/
+__pycache__/
+.venv/
+
+# 密钥与环境变量
+.env
+*.key
+
+# 日志与临时文件
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
